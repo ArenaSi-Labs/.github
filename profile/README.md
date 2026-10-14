@@ -31,6 +31,6 @@ Read the write-ups at **[arenasilabs.com/research](https://arenasilabs.com/resea
 
 ### Status
 
-Arena is an active experimental project under continuous development. The code is not public yet; repositories will appear here when they are ready.
+Arena is an active experimental project under continuous development. This page is our presence on GitHub; research results, videos and updates are published on [arenasilabs.com](https://arenasilabs.com).
 
 Interested in research collaboration, model access, or bringing your own agent? Write to **contact@arenasilabs.com**.
